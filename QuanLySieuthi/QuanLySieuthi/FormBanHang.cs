@@ -55,14 +55,14 @@ namespace QuanLySieuthi
         {
             SqlConnection con = new SqlConnection(globalParameter.str);
             SqlCommand cm = new SqlCommand();
-            DataTable data = new DataTable();
+            DataTable dt1 = new DataTable();
 
             cm.Connection = con;
 
             cm.CommandText = "select * from MATHANG";
             da.SelectCommand = cm;
-            da.Fill(data);
-            cbbMatHang.DataSource = data;
+            da.Fill(dt1);
+            cbbMatHang.DataSource = dt1;
             cbbMatHang.DisplayMember = "TenMH";
             cbbMatHang.ValueMember = "Ma";
         }
@@ -86,12 +86,13 @@ namespace QuanLySieuthi
         public void getdataChiTietBanHang()
         {
             SqlCommand command = new SqlCommand();
+            DataTable data = new DataTable();
             command.Connection = conn;
             command.CommandText = "select Hoten, mh.TenMH, ctb.SoLuongBan, ctb.DonGia from CHITIETBANHANG ctb, MATHANG mh, NHANVIEN nv on ctb.MaMH = mh.Ma where ctb.Ma = @Ma and ctb.Ma = nv.Ma";
             command.Parameters.Add(new SqlParameter("@ma", tbMaBH.Text));
             da.SelectCommand = command;
-            da.Fill(dt1);
-            dgvChiTietBanHang.DataSource = dt1;
+            da.Fill(data);
+            dgvChiTietBanHang.DataSource = data;
         }
         private void btLuuKH_Click(object sender, EventArgs e)
         {
