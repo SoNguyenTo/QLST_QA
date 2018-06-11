@@ -1,0 +1,24 @@
+C:\Users\NGODUCMTA\Desktop\QLSieuThi\QuanLySieuthi\QuanLySieuthi\bin\Debug\QuanLySieuthi.exe.config
+C:\Users\NGODUCMTA\Desktop\QLSieuThi\QuanLySieuthi\QuanLySieuthi\bin\Debug\QuanLySieuthi.exe
+C:\Users\NGODUCMTA\Desktop\QLSieuThi\QuanLySieuthi\QuanLySieuthi\bin\Debug\QuanLySieuthi.pdb
+C:\Users\NGODUCMTA\Desktop\QLSieuThi\QuanLySieuthi\QuanLySieuthi\obj\Debug\QuanLySieuthi.csprojResolveAssemblyReference.cache
+C:\Users\NGODUCMTA\Desktop\QLSieuThi\QuanLySieuthi\QuanLySieuthi\obj\Debug\QuanLySieuthi.FormNhapHang.resources
+C:\Users\NGODUCMTA\Desktop\QLSieuThi\QuanLySieuthi\QuanLySieuthi\obj\Debug\QuanLySieuthi.Properties.Resources.resources
+C:\Users\NGODUCMTA\Desktop\QLSieuThi\QuanLySieuthi\QuanLySieuthi\obj\Debug\QuanLySieuthi.csproj.GenerateResource.Cache
+C:\Users\NGODUCMTA\Desktop\QLSieuThi\QuanLySieuthi\QuanLySieuthi\obj\Debug\QuanLySieuthi.exe
+C:\Users\NGODUCMTA\Desktop\QLSieuThi\QuanLySieuthi\QuanLySieuthi\obj\Debug\QuanLySieuthi.pdb
+D:\học\Năm 3 kỳ 2\THUCTAPNHOM\QuanLySieuThi\QuanLySieuThi\QuanLySieuthi\QuanLySieuthi\bin\Debug\QuanLySieuthi.exe.config
+D:\học\Năm 3 kỳ 2\THUCTAPNHOM\QuanLySieuThi\QuanLySieuThi\QuanLySieuthi\QuanLySieuthi\obj\Debug\QuanLySieuthi.exe
+D:\học\Năm 3 kỳ 2\THUCTAPNHOM\QuanLySieuThi\QuanLySieuThi\QuanLySieuthi\QuanLySieuthi\obj\Debug\QuanLySieuthi.pdb
+D:\học\Năm 3 kỳ 2\THUCTAPNHOM\QuanLySieuThi\QuanLySieuThi\QuanLySieuthi\QuanLySieuthi\bin\Debug\QuanLySieuthi.exe
+D:\học\Năm 3 kỳ 2\THUCTAPNHOM\QuanLySieuThi\QuanLySieuThi\QuanLySieuthi\QuanLySieuthi\bin\Debug\QuanLySieuthi.pdb
+D:\học\Năm 3 kỳ 2\THUCTAPNHOM\QuanLySieuThi\QuanLySieuThi\QuanLySieuthi\QuanLySieuthi\obj\Debug\QuanLySieuthi.csprojResolveAssemblyReference.cache
+D:\học\Năm 3 kỳ 2\THUCTAPNHOM\QuanLySieuThi\QuanLySieuThi\QuanLySieuthi\QuanLySieuthi\obj\Debug\QuanLySieuthi.FormNhapHang.resources
+D:\học\Năm 3 kỳ 2\THUCTAPNHOM\QuanLySieuThi\QuanLySieuThi\QuanLySieuthi\QuanLySieuthi\obj\Debug\QuanLySieuthi.Properties.Resources.resources
+D:\học\Năm 3 kỳ 2\THUCTAPNHOM\QuanLySieuThi\QuanLySieuThi\QuanLySieuthi\QuanLySieuthi\obj\Debug\QuanLySieuthi.csproj.GenerateResource.Cache
+D:\học\Năm 3 kỳ 2\THUCTAPNHOM\QuanLySieuThi\QuanLySieuThi\QuanLySieuthi\QuanLySieuthi\obj\Debug\QuanLySieuthi.FormBanHang.resources
+D:\học\Năm 3 kỳ 2\THUCTAPNHOM\QuanLySieuThi\QuanLySieuThi\QuanLySieuthi\QuanLySieuthi\obj\Debug\QuanLySieuthi.FormMain.resources
+D:\học\Năm 3 kỳ 2\THUCTAPNHOM\QuanLySieuThi\QuanLySieuThi\QuanLySieuthi\QuanLySieuthi\obj\Debug\QuanLySieuthi.FormThongKe.resources
+D:\học\Năm 3 kỳ 2\TTNhom\QuanLySieuThi\QuanLySieuThi\QuanLySieuthi\QuanLySieuthi\bin\Debug\QuanLySieuthi.exe.config
+D:\học\Năm 3 kỳ 2\TTNhom\QuanLySieuThi\QuanLySieuThi\QuanLySieuthi\QuanLySieuthi\obj\Debug\QuanLySieuthi.exe
+D:\học\Năm 3 kỳ 2\TTNhom\QuanLySieuThi\QuanLySieuThi\QuanLySieuthi\QuanLySieuthi\obj\Debug\QuanLySieuthi.pdb
